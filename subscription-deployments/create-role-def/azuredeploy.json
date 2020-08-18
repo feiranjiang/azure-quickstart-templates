@@ -27,7 +27,7 @@
     },
     "roleDescription": {
       "type": "string",
-      "defaultValue": "Subscription Level Deployment of a Role Definition",
+      "defaultValue": "Subscription Level Deployment of a Role Definition Feiran",
       "metadata": {
         "description": "Detailed description of the role definition"
       }
