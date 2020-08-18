@@ -53,7 +53,7 @@
           }
         ],
         "assignableScopes": [
-          "[subscription().id]"
+          "/subscriptions/3f6d7ef5-0cdf-4a7a-a386-0b324d8b28f0/resourcegroups/FeiranAADDS"
         ]
       }
     }
